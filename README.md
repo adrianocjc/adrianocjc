@@ -1,7 +1,7 @@
-#Hello!
-##Welcome to my GitHub profile
+###👋 Hello!
+###Welcome to my GitHub profile
 ### I'm currently workin as a Chemistry Teacher, but I'm a Tech Enthusiastic person!
-### Hi there 👋
+
 
 <!--
 **adrianocjc/adrianocjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
