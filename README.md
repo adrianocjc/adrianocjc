@@ -1,8 +1,35 @@
-###👋 Hello!
-###Welcome to my GitHub profile
-### I'm currently workin as a Chemistry Teacher, but I'm a Tech Enthusiastic person!
+<div align="center">
+<img width=300 src = https://user-images.githubusercontent.com/79386876/170884082-a1971a77-8357-4c79-91a6-83310f527502.jpeg align="middle">
+</div>
 
+<h1>
+  <div align="center">
+    <b>Hi! 👋 I'm Adriano Costa</b>  
+  </div>
+</h1>
 
+<h2>
+  <div align="center">
+    A Chemistry Teacher and passionate Developer from Brazil!
+  </div>
+</h2>
+            
+<div align="center">
+  <a href="https://github.com/seu-usuário-aqui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianocjc&layout=compact&langs_count=7&theme=dracula"/>
+  <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianocjc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+### Languages I'm studying
+  
+### Get in touch!
+<div align="center">
+  <a href="[https://www.youtube.com/channel/UCoApezADwedxLaG2p22afaA]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/adrianocjc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:adrianocjc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adriano-costa-ab43b324/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>  
 <!--
 **adrianocjc/adrianocjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
