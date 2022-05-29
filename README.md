@@ -1,3 +1,6 @@
+#Hello!
+##Welcome to my GitHub profile
+### I'm currently workin as a Chemistry Teacher, but I'm a Tech Enthusiastic person!
 ### Hi there 👋
 
 <!--
