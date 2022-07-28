@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianocjc&label=Profile%20views&color=b40e7f&style=flat" alt="arianocjc" /> </p>   
 <div align="center">
 <img width=300 src = https://user-images.githubusercontent.com/79386876/170884082-a1971a77-8357-4c79-91a6-83310f527502.jpeg align="middle">
 </div>
@@ -29,7 +30,6 @@
   <a href = "mailto:adrianocjc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-costa-ab43b324/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianocjc&label=Profile%20views&color=b40e7f&style=flat" alt="arianocjc" /> </p>   
 <!--
 **adrianocjc/adrianocjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
