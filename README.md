@@ -13,7 +13,6 @@
     A Chemistry Teacher and passionate programming student from Brazil!
   </div>
 </h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianocjc&label=Profile%20views&color=b40e7f&style=flat" alt="arianocjc" /> </p>       
 <div align="center">
   <a href="https://github.com/adrianocjc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianocjc&layout=compact&langs_count=7&theme=dracula"/>
@@ -29,7 +28,8 @@
   <a href="https://instagram.com/adrianocjc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:adrianocjc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-costa-ab43b324/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>  
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianocjc&label=Profile%20views&color=b40e7f&style=flat" alt="arianocjc" /> </p>   
 <!--
 **adrianocjc/adrianocjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
