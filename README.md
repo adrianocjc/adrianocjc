@@ -10,7 +10,7 @@
 
 <h2>
   <div align="center">
-    A Chemistry Teacher and passionate Developer from Brazil!
+    A Chemistry Teacher and passionate programming student from Brazil!
   </div>
 </h2>
             
